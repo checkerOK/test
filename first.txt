@@ -1,1 +1,2 @@
-Deal#1 - text-text-text
+Deal#1 - text
+Deal#2 - text-text
